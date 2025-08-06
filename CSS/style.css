@@ -122,9 +122,8 @@ justify-content: center;
 }
 video{
     width: 100%;
-    max-width: 800px;
+    height: auto;
     display: block;
-    margin: 0 auto;
-    border-radius: 12px; /* Opcional: bordes redondeados */
-    box-shadow: 0 4px 16px rgba(0,0,0,0.2); /* Opcional: sombra */
+    margin: 0;
+    padding: 0;
 }
